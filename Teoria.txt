@@ -1,1 +1,11 @@
 JAVASCRIPT
+
+✔Javascript ya viene integrado en los navegadores por lo cual NO SE REQUIERE compilar, ya que es un lenguaje
+ que se traduce/interpreta
+
+✔ Tu código JS puede estar en el Head, en el body (En cualquier parte del body va a funcionar igual)
+   o al final del body antes de su cierre de etiqueta (Que es lo más recomendado ya que se carga de arriba hacia abajo)
+   y como JS puede tener cosas que tarden en cargar puede interferir con cosas de HTML, obviamente debe
+   estar adentro de las etiquetas 'script'
+
+***Lo más recomendado es tener un javascript externo (Archivo js externo).
