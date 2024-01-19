@@ -1,0 +1,8 @@
+SOBRE VARIABLES:
+
+--> Los nombres de las variables NO PUEDEN iniciar con números, pero si con guion bajo: __01, _nombreVar
+
+nombreVariable : Es Camel Case
+nombre_varibale : Underscore o Snake
+NombreVariable : Es Pascal Case
+
