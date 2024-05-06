@@ -3,3 +3,5 @@ My documentation of Javascript, improving my JS knowledge, diving deep into comp
 ✔New ECMAScript features
 ✔New Objects
 ✔New Methods
+✔New Data types
+
