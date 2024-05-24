@@ -4,4 +4,5 @@ My documentation of Javascript, improving my JS knowledge, diving deep into comp
 ✔New Objects
 ✔New Methods
 ✔New Data types
+✔New Features 2024
 
